@@ -1,0 +1,42 @@
+body{
+    background-color: #f0f2f5;
+    font-family: Helvetica,Arial,sans-serif;
+}
+.dob, .gender{
+    font-size:12px;
+    font-family: inherit;
+}
+.select-gender {
+    font-size: 15px;
+}
+.text {
+    font-size:14px;
+    font-family: inherit;
+}
+.text-note a {
+    color:#385898;
+    text-decoration: none;
+}
+.text-note a:hover {
+    text-decoration:underline;
+}
+
+.btn-dk {
+    background-color: #00a400;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    font-size: 18px;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+    padding: 0 60px;
+}
+
+.text-xn a{
+    color: #1877f2;
+    text-decoration: none;
+}
